@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@walletconnect/core": "^2.13.3",
+    "@walletconnect/web3wallet": "^1.12.3",
+    "@web3modal/ethereum": "^2.7.1",
+    "ethers": "^6.13.4"
+  }
+}
